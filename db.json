@@ -1,0 +1,30 @@
+{
+	"promotionList": [
+		{
+			"promotionImage": "link_to_minio",
+			"seenByUser": false,
+			"promotionSubject": "Promo Ramadhan",
+			"codeVoucher": "1233233",
+			"createdDate": 1624935352040,
+			"startDate": 1624935352040,
+			"endDate": 1624935352040,
+			"promotionDescription": "Dapatkan promo properti expo dengan bunga rendah hanya 6,69% dan DP mulai 1 %, Harga mulai dari 130 jt an saja",
+			"location": "Seluruh Indonesia",
+			"language": "IDN",
+			"termsAndConditions": "1. Promo hanya berlaku bagi nasabah BTN\n2. Promo berlaku untuk nasabah dengan pembuatan rekening paling lambat 12 Februari 2021\n3. Silahkan tanya ke customer service kami untuk informasi lebih detil"
+		},
+		{
+			"promotionImage": "link_to_minio",
+			"seenByUser": false,
+			"promotionSubject": "Promo Ramadhan",
+			"codeVoucher": "1233233",
+			"createdDate": 1624935352040,
+			"startDate": 1624935352040,
+			"endDate": 1624935352040,
+			"promotionDescription": "Dapatkan promo properti expo dengan bunga rendah hanya 6,69% dan DP mulai 1 %, Harga mulai dari 130 jt an saja",
+			"location": "Seluruh Indonesia",
+			"language": "IDN",
+			"termsAndConditions": "1. Promo hanya berlaku bagi nasabah BTN\n2. Promo berlaku untuk nasabah dengan pembuatan rekening paling lambat 12 Februari 2021\n3. Silahkan tanya ke customer service kami untuk informasi lebih detil"
+		}
+	]
+}
